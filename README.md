@@ -3,10 +3,6 @@
 A clean and minimal repository for my labs in **CSCI 159: Computer Science I** at **Vancouver Island University**.  
 All labs are written in **C++**, focusing on strong fundamentals, clear structure, and algorithmic thinking.
 
-Minimal.  
-Founder-coded.  
-Silicon-Valley-minded from day 1.
-
 ---
 
 ## 📂 Labs Overview
@@ -47,4 +43,5 @@ To execute any lab, replace **X** with the lab number and run:
 ```bash
 g++ labX.cpp -o labX
 ./labX
+
 
