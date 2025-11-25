@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/nikkoramos/Desktop/csci159 /lab5/output/basic'
+relocations:     []
+...
