@@ -1,0 +1,29 @@
+# Compiled binary files
+*.out
+*.o
+*.exe
+
+# MacOS metadata files
+.DS_Store
+
+# VS Code settings and temp files
+.vscode/
+*.code-workspace
+
+# Backup or temp files
+*.tmp
+*.bak
+
+# CMake or build folders (if used later)
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Debug files
+*.log
+
+# Object and intermediate files
+*.obj
+*.pch
